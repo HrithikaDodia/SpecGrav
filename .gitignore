@@ -1,0 +1,7 @@
+.idea
+.ipynb_checkpoints
+__pycache__
+data_old_format
+spec_grav_data
+spec_grav_model_files
+create_new_format_data_dir.py

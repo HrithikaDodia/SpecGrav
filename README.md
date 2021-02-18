@@ -14,8 +14,8 @@ I generated BBH and BNS gravitational wave signals embedded in noise and created
 <img src="https://github.com/HrithikaDodia/SpecGrav/blob/master/images/gw_spectrograms.png" />
 </p>
 
-Convolutional Neural Network is used and it's structure can be found [here](https://github.com/HrithikaDodia/SpecGrav/blob/master/images/hrithika_model.py) 
-and trained it [here](https://github.com/HrithikaDodia/SpecGrav/blob/master/images/train.ipynb).
+Convolutional Neural Network is used and it's structure can be found [here](https://github.com/HrithikaDodia/SpecGrav/blob/master/hrithika_model.py) 
+and trained it [here](https://github.com/HrithikaDodia/SpecGrav/blob/master/train.ipynb).
 
 Creds:
 LALSUITE by LIGO

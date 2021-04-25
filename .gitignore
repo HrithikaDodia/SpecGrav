@@ -5,3 +5,14 @@ data_old_format
 spec_grav_data
 spec_grav_model_files
 create_new_format_data_dir.py
+/LIGO_detection_data/
+tries_files
+Real_LIGO_noise_files
+Hrithika_data_with_Real_Ligo_strain
+Hrithika_LIGO_data_structured
+hrithika_specgrav_best_model
+hrithika_specgrav_model_files_LIGO_new_data
+hrithika_specgrav_model_files_LIGO_new_data_run_two
+LIGO_detection_data
+test_real_GW_events.py
+Hrithika_Real_LIGO_train.ipynb

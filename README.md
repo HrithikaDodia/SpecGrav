@@ -17,5 +17,7 @@ I generated BBH and BNS gravitational wave signals embedded in noise and created
 Convolutional Neural Network is used and it's structure can be found [here](https://github.com/HrithikaDodia/SpecGrav/blob/master/hrithika_model.py) 
 and trained it [here](https://github.com/HrithikaDodia/SpecGrav/blob/master/train.ipynb).
 
+Trained new model on spectrograms of gravitational waves injected in real LIGO noise.
+
 Creds:
 LALSUITE by LIGO
